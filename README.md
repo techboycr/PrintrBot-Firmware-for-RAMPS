@@ -28,7 +28,7 @@ Uncomment the respective lines. Is ready for the Simple Metal with this settings
   #define Z_MAX_POS_DEFAULT 152
 
   ==========================
-      !!! IMPORTANT !!!
+      **IMPORTANT**
   ==========================
 For Advance user and other non civilian people further settings for endstop and other models are available in "pins.h" under settings for option "MOTHERBOARD == 37"
 
