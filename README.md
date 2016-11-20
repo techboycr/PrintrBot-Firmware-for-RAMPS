@@ -5,7 +5,7 @@ Fork of the PrintrBot Firmware to work with RAMPS, it was tested with RAMPS 1.4 
 
 If you are in Tiquicia (Costa Rica), you can buy everything in http://www.crcibernetica.com/, next are the links just click on the hardware name:
 
- href="http://www.crcibernetica.com/ramps-1-4-3d-controller-board/">RAMPS Board</a>
+ <a href="http://www.crcibernetica.com/ramps-1-4-3d-controller-board/">RAMPS Board</a>
  href="http://www.crcibernetica.com/stepstick-8825-driver-for-ramps-1-4-boards/">Drivers</a> and many original parts.
  href="http://www.crcibernetica.com/ubis-13s-hot-end/">Hot End</a>
  href="http://www.crcibernetica.com/large-kysan-motor-for-printrbot/">Stepper Motor</a>
