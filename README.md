@@ -6,7 +6,7 @@ Fork of the PrintrBot Firmware to work with RAMPS, it was tested with RAMPS 1.4 
 If you are in Tiquicia (Costa Rica), you can buy everything in http://www.crcibernetica.com/, next are the links just click on the hardware name:
 
  * <a href="http://www.crcibernetica.com/ramps-1-4-3d-controller-board/">RAMPS Board</a>
- * <a href="http://www.crcibernetica.com/arduino-mega-2560-rev-3/">Arduino Mega Original/a>
+ * <a href="http://www.crcibernetica.com/arduino-mega-2560-rev-3/">Arduino Mega Original</a>
  * <a href="http://www.crcibernetica.com/generic-mega-2560-rev3/">Arduino Mega Chinese</a>
  * <a href="http://www.crcibernetica.com/stepstick-8825-driver-for-ramps-1-4-boards/">Drivers</a>
  * <a href="http://www.crcibernetica.com/ubis-13s-hot-end/">Hot End</a>
